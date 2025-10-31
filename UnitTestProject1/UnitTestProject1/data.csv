@@ -1,0 +1,6 @@
+﻿a,b,c,Expected
+-3,4,5,Exception
+2,3,6,false
+2,8,5,false
+9,2,6,false
+3,4,5,true

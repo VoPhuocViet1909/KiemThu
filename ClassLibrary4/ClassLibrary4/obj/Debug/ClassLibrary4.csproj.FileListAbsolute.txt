@@ -1,0 +1,6 @@
+C:\Users\Hoang\Downloads\ClassLibrary4\ClassLibrary4\bin\Debug\ClassLibrary4.dll
+C:\Users\Hoang\Downloads\ClassLibrary4\ClassLibrary4\bin\Debug\ClassLibrary4.pdb
+C:\Users\Hoang\Downloads\ClassLibrary4\ClassLibrary4\obj\Debug\ClassLibrary4.csproj.AssemblyReference.cache
+C:\Users\Hoang\Downloads\ClassLibrary4\ClassLibrary4\obj\Debug\ClassLibrary4.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Downloads\ClassLibrary4\ClassLibrary4\obj\Debug\ClassLibrary4.dll
+C:\Users\Hoang\Downloads\ClassLibrary4\ClassLibrary4\obj\Debug\ClassLibrary4.pdb
