@@ -1,0 +1,7 @@
+﻿a,b,c,expected
+0,4,5,
+3,3,3,Tam_giac_deu
+4,4,5,Tam_giac_can
+5,5,7,Tam_giac_vuong_can
+3,4,5,Tam_giac_vuong
+4,5,6,Tam_giac_thuong

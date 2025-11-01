@@ -1,0 +1,7 @@
+﻿a,b,c,expected
+0,4,5,
+3,3,3,Tam giác đều
+4,4,5,Tam giác cân
+5,5,7,Tam giác vuông cân
+3,4,5,Tam giác vuông
+4,5,6,Tam giác thường

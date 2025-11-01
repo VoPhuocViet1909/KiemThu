@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hoang\\Downloads\\ClassLibrary5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD50368C-F273-4759-A6D3-BED2EB7B976A}|ClassLibrary5Tests\\ClassLibrary5Tests.csproj|c:\\users\\hoang\\downloads\\classlibrary5\\classlibrary5tests\\kiemtratamgiactests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD50368C-F273-4759-A6D3-BED2EB7B976A}|ClassLibrary5Tests\\ClassLibrary5Tests.csproj|solutionrelative:classlibrary5tests\\kiemtratamgiactests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AEBEE5C-E5A6-4B60-8EED-8B7FFE2D9998}|ClassLibrary5\\ClassLibrary5.csproj|c:\\users\\hoang\\downloads\\classlibrary5\\classlibrary5\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AEBEE5C-E5A6-4B60-8EED-8B7FFE2D9998}|ClassLibrary5\\ClassLibrary5.csproj|solutionrelative:classlibrary5\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949A00F7-F489-4067-B18E-8A98639EF261}|UnitTestProject1\\UnitTestProject1.csproj|c:\\users\\hoang\\downloads\\classlibrary5\\unittestproject1\\kiemtratamgiac_datadriventests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949A00F7-F489-4067-B18E-8A98639EF261}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\kiemtratamgiac_datadriventests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949A00F7-F489-4067-B18E-8A98639EF261}|UnitTestProject1\\UnitTestProject1.csproj|c:\\users\\hoang\\downloads\\classlibrary5\\unittestproject1\\data.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{949A00F7-F489-4067-B18E-8A98639EF261}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\data.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "data.csv",
+              "DocumentMoniker": "C:\\Users\\Hoang\\Downloads\\ClassLibrary5\\UnitTestProject1\\data.csv",
+              "RelativeDocumentMoniker": "UnitTestProject1\\data.csv",
+              "ToolTip": "C:\\Users\\Hoang\\Downloads\\ClassLibrary5\\UnitTestProject1\\data.csv*",
+              "RelativeToolTip": "UnitTestProject1\\data.csv*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-11-01T00:31:35.473Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KiemTraTamGiac_DataDrivenTests.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\Downloads\\ClassLibrary5\\UnitTestProject1\\KiemTraTamGiac_DataDrivenTests.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\KiemTraTamGiac_DataDrivenTests.cs",
+              "ToolTip": "C:\\Users\\Hoang\\Downloads\\ClassLibrary5\\UnitTestProject1\\KiemTraTamGiac_DataDrivenTests.cs",
+              "RelativeToolTip": "UnitTestProject1\\KiemTraTamGiac_DataDrivenTests.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T00:30:15.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KiemTraTamGiacTests.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\Downloads\\ClassLibrary5\\ClassLibrary5Tests\\KiemTraTamGiacTests.cs",
+              "RelativeDocumentMoniker": "ClassLibrary5Tests\\KiemTraTamGiacTests.cs",
+              "ToolTip": "C:\\Users\\Hoang\\Downloads\\ClassLibrary5\\ClassLibrary5Tests\\KiemTraTamGiacTests.cs*",
+              "RelativeToolTip": "ClassLibrary5Tests\\KiemTraTamGiacTests.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwDoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T00:15:31.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\Downloads\\ClassLibrary5\\ClassLibrary5\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary5\\Class1.cs",
+              "ToolTip": "C:\\Users\\Hoang\\Downloads\\ClassLibrary5\\ClassLibrary5\\Class1.cs*",
+              "RelativeToolTip": "ClassLibrary5\\Class1.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwCQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T00:09:47.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
