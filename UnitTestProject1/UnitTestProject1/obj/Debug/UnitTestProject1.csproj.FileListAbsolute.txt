@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\TL\New\KiemThu\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 D:\TL\New\KiemThu\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 D:\TL\New\KiemThu\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
@@ -14,3 +15,21 @@ D:\TL\New\KiemThu\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTest.40E657F8.
 D:\TL\New\KiemThu\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 D:\TL\New\KiemThu\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
 D:\TL\New\KiemThu\UnitTestProject1\UnitTestProject1\bin\Debug\data.csv
+=======
+C:\Users\Hoang\Downloads\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Hoang\Downloads\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Hoang\Downloads\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Hoang\Downloads\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Hoang\Downloads\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Hoang\Downloads\UnitTestProject1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Hoang\Downloads\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Hoang\Downloads\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Hoang\Downloads\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Hoang\Downloads\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Hoang\Downloads\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+C:\Users\Hoang\Downloads\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Downloads\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTest.40E657F8.Up2Date
+C:\Users\Hoang\Downloads\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Hoang\Downloads\UnitTestProject1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Hoang\Downloads\UnitTestProject1\UnitTestProject1\bin\Debug\data.csv
+>>>>>>> 182f98b8b2b727e401fb06964f159b0836155289
