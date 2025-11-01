@@ -1,0 +1,17 @@
+D:\TL\New\KiemThu\VoPhuocViet_22730761_May\VoPhuocViet_22730761_MayTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\TL\New\KiemThu\VoPhuocViet_22730761_May\VoPhuocViet_22730761_MayTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\TL\New\KiemThu\VoPhuocViet_22730761_May\VoPhuocViet_22730761_MayTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\TL\New\KiemThu\VoPhuocViet_22730761_May\VoPhuocViet_22730761_MayTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\TL\New\KiemThu\VoPhuocViet_22730761_May\VoPhuocViet_22730761_MayTests\bin\Debug\VoPhuocViet_22730761_MayTests.dll
+D:\TL\New\KiemThu\VoPhuocViet_22730761_May\VoPhuocViet_22730761_MayTests\bin\Debug\VoPhuocViet_22730761_MayTests.pdb
+D:\TL\New\KiemThu\VoPhuocViet_22730761_May\VoPhuocViet_22730761_MayTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\TL\New\KiemThu\VoPhuocViet_22730761_May\VoPhuocViet_22730761_MayTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\TL\New\KiemThu\VoPhuocViet_22730761_May\VoPhuocViet_22730761_MayTests\bin\Debug\VoPhuocViet_22730761_May.dll
+D:\TL\New\KiemThu\VoPhuocViet_22730761_May\VoPhuocViet_22730761_MayTests\bin\Debug\VoPhuocViet_22730761_May.pdb
+D:\TL\New\KiemThu\VoPhuocViet_22730761_May\VoPhuocViet_22730761_MayTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\TL\New\KiemThu\VoPhuocViet_22730761_May\VoPhuocViet_22730761_MayTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\TL\New\KiemThu\VoPhuocViet_22730761_May\VoPhuocViet_22730761_MayTests\obj\Debug\VoPhuocViet_22730761_MayTests.csproj.AssemblyReference.cache
+D:\TL\New\KiemThu\VoPhuocViet_22730761_May\VoPhuocViet_22730761_MayTests\obj\Debug\VoPhuocViet_22730761_MayTests.csproj.CoreCompileInputs.cache
+D:\TL\New\KiemThu\VoPhuocViet_22730761_May\VoPhuocViet_22730761_MayTests\obj\Debug\VoPhuocV.5C3DD6D0.Up2Date
+D:\TL\New\KiemThu\VoPhuocViet_22730761_May\VoPhuocViet_22730761_MayTests\obj\Debug\VoPhuocViet_22730761_MayTests.dll
+D:\TL\New\KiemThu\VoPhuocViet_22730761_May\VoPhuocViet_22730761_MayTests\obj\Debug\VoPhuocViet_22730761_MayTests.pdb

@@ -1,0 +1,6 @@
+D:\TL\New\KiemThu\VoPhuocViet_22730761_May\VoPhuocViet_22730761_May\bin\Debug\VoPhuocViet_22730761_May.dll
+D:\TL\New\KiemThu\VoPhuocViet_22730761_May\VoPhuocViet_22730761_May\bin\Debug\VoPhuocViet_22730761_May.pdb
+D:\TL\New\KiemThu\VoPhuocViet_22730761_May\VoPhuocViet_22730761_May\obj\Debug\VoPhuocViet_22730761_May.csproj.AssemblyReference.cache
+D:\TL\New\KiemThu\VoPhuocViet_22730761_May\VoPhuocViet_22730761_May\obj\Debug\VoPhuocViet_22730761_May.csproj.CoreCompileInputs.cache
+D:\TL\New\KiemThu\VoPhuocViet_22730761_May\VoPhuocViet_22730761_May\obj\Debug\VoPhuocViet_22730761_May.dll
+D:\TL\New\KiemThu\VoPhuocViet_22730761_May\VoPhuocViet_22730761_May\obj\Debug\VoPhuocViet_22730761_May.pdb
